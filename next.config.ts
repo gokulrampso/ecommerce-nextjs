@@ -1,20 +1,9 @@
-import { NextConfig } from 'next';
+import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   images: {
     domains: ['placehold.co', 'images.unsplash.com'],
-    // Use remotePatterns instead of domains as recommended by the warning in the console
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'placehold.co'
-      },
-      {
-        protocol: 'https',
-        hostname: 'images.unsplash.com'
-      }
-    ]
   },
 };
 
-export default nextConfig; 
+export default nextConfig;

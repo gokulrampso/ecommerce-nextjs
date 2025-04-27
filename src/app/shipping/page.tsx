@@ -6,7 +6,7 @@ export default function ShippingPage() {
   const content = (
     <>
       <p className="mb-4">
-        At SHOPIFY, we strive to provide fast, reliable shipping options to customers worldwide. Below you'll find information about our shipping policies, delivery times, and tracking options.
+        At e-MART, we strive to provide fast, reliable shipping options to customers worldwide. Below you'll find information about our shipping policies, delivery times, and tracking options.
       </p>
       
       <h2 className="text-2xl font-bold mt-8 mb-4">Shipping Options</h2>
@@ -66,7 +66,7 @@ export default function ShippingPage() {
       </p>
       
       <ol className="list-decimal pl-5 mb-6 space-y-2">
-        <li>Log in to your SHOPIFY account</li>
+        <li>Log in to your e-MART account</li>
         <li>Go to your Order History</li>
         <li>Click on the order you want to track</li>
         <li>Click the tracking number to view the current status</li>
@@ -82,7 +82,7 @@ export default function ShippingPage() {
       <h2 className="text-2xl font-bold mt-8 mb-4">Contact Us</h2>
       
       <p className="mb-4">
-        If you have any questions about your shipment or need assistance, please don't hesitate to contact our customer service team at support@shopify.com or call us at (123) 456-7890.
+        If you have any questions about shipping or tracking, please contact our customer service team at support@e-mart.com or call us at (123) 456-7890.
       </p>
     </>
   );

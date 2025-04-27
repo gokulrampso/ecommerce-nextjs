@@ -136,7 +136,7 @@ export default function HelpPage() {
                 Contact Us
               </a>
               <a 
-                href="mailto:support@shopify.com" 
+                href="mailto:support@e-mart.com" 
                 className="bg-white dark:bg-gray-800 text-blue-500 border border-blue-500 px-6 py-2 rounded-lg transition-colors"
               >
                 Email Support

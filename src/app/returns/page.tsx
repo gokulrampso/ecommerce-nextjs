@@ -22,7 +22,7 @@ export default function ReturnsPage() {
       <h2 className="text-2xl font-bold mt-8 mb-4">How to Return an Item</h2>
       
       <ol className="list-decimal pl-5 mb-8 space-y-2">
-        <li>Log in to your SHOPIFY account and go to your Order History.</li>
+        <li>Log in to your e-MART account and go to your Order History.</li>
         <li>Select the order that contains the item(s) you want to return.</li>
         <li>Click on "Return Items" and follow the prompts to complete your return request.</li>
         <li>Print the prepaid return shipping label (if eligible) or use your own shipping method.</li>
@@ -74,7 +74,7 @@ export default function ReturnsPage() {
       <h2 className="text-2xl font-bold mt-8 mb-4">Contact Us</h2>
       
       <p className="mb-4">
-        If you have any questions about returns or exchanges, please contact our customer service team at returns@shopify.com or call us at (123) 456-7890.
+        If you have any questions about returns or exchanges, please contact our customer service team at returns@e-mart.com or call us at (123) 456-7890.
       </p>
     </>
   );

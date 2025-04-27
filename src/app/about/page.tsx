@@ -32,11 +32,11 @@ export default function AboutPage() {
           
           <div className="prose dark:prose-invert max-w-none">
             <p className="mb-4">
-              Welcome to SHOPIFY, your number one source for all things [product category]. We're dedicated to providing you the very best of [products], with an emphasis on [characteristics].
+              Welcome to e-MART, your number one source for all things [product category]. We're dedicated to providing you the very best of [products], with an emphasis on [characteristics].
             </p>
             
             <p className="mb-4">
-              Founded in [year] by [founder's name], SHOPIFY has come a long way from its beginnings in [starting location]. When [founder's name] first started out, their passion for [passion] drove them to [action] so that SHOPIFY can offer you [competitive differentiator]. We now serve customers all over [place], and are thrilled that we're able to turn our passion into our own website.
+              Founded in [year] by [founder's name], e-MART has come a long way from its beginnings in [starting location]. When [founder's name] first started out, their passion for [passion] drove them to [action] so that e-MART can offer you [competitive differentiator]. We now serve customers all over [place], and are thrilled that we're able to turn our passion into our own website.
             </p>
             
             <p className="mb-4">
@@ -45,7 +45,7 @@ export default function AboutPage() {
             
             <h2 className="text-2xl font-bold mt-8 mb-4">Our Mission</h2>
             <p className="mb-4">
-              At SHOPIFY, our mission is to provide high-quality products at affordable prices while delivering exceptional customer service. We believe in sustainability and ethical business practices, and we work hard to ensure our products are sourced and manufactured responsibly.
+              At e-MART, our mission is to provide high-quality products at affordable prices while delivering exceptional customer service. We believe in sustainability and ethical business practices, and we work hard to ensure our products are sourced and manufactured responsibly.
             </p>
             
             <h2 className="text-2xl font-bold mt-8 mb-4">Our Team</h2>

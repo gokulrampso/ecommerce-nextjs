@@ -64,7 +64,7 @@ export default function CareersPage() {
           
           <div className="prose dark:prose-invert max-w-none mb-8">
             <p className="mb-4">
-              Join our talented team and help us transform the e-commerce industry! At SHOPIFY, we're always looking for passionate, creative individuals who want to make a difference.
+              Join our talented team and help us transform the e-commerce industry! At e-MART, we're always looking for passionate, creative individuals who want to make a difference.
             </p>
             
             <p className="mb-4">
@@ -102,7 +102,7 @@ export default function CareersPage() {
           <div className="bg-gray-100 dark:bg-gray-700 rounded-lg p-6">
             <h3 className="text-xl font-bold mb-2">Don't see a position that fits?</h3>
             <p className="mb-4 text-gray-600 dark:text-gray-400">
-              We're always interested in connecting with talented individuals. Send your resume to careers@shopify.com and tell us why you'd be a great fit for our team.
+              We're always interested in connecting with talented individuals. Send your resume to careers@e-mart.com and tell us why you'd be a great fit for our team.
             </p>
           </div>
         </div>

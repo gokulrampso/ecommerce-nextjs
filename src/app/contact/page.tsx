@@ -76,7 +76,7 @@ export default function ContactPage() {
                 </div>
                 <div className="flex items-center">
                   <FaEnvelope className="text-blue-500 mr-3" />
-                  <span className="text-gray-700 dark:text-gray-300">support@shopify.com</span>
+                  <span className="text-gray-700 dark:text-gray-300">support@e-mart.com</span>
                 </div>
                 <div className="flex items-center">
                   <FaMapMarkerAlt className="text-blue-500 mr-3" />

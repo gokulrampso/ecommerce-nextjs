@@ -122,7 +122,7 @@ export const Footer = () => {
       <div className="bg-gray-100 dark:bg-gray-800 py-6">
         <div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-600 dark:text-gray-400 text-sm">
-            &copy; {new Date().getFullYear()} SHOPIFY. All rights reserved.
+            &copy; {new Date().getFullYear()} e-MART. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <Link href="/terms" className="text-gray-600 dark:text-gray-400 text-sm hover:text-blue-500 dark:hover:text-blue-400">Terms of Service</Link>

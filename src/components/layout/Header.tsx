@@ -4,7 +4,6 @@ import { useRouter } from 'next/navigation';
 import { FaShoppingCart, FaSearch, FaUser, FaHeart } from 'react-icons/fa';
 import { CartItem } from '@/types/product';
 import { products } from '@/data/products';
-import Logo from '@/components/common/Logo';
 
 interface HeaderProps {
   cartItems: CartItem[];
@@ -83,7 +82,9 @@ export const Header: React.FC<HeaderProps> = ({ cartItems, onCartClick }) => {
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         {/* Logo */}
         <div className="flex items-center">
-          <Logo />
+          <Link href="/" className="text-2xl font-bold bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text">
+            e-MART
+          </Link>
         </div>
 
         {/* Search */}

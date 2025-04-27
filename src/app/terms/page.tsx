@@ -6,7 +6,7 @@ export default function TermsPage() {
   const content = (
     <>
       <p className="mb-4">
-        Welcome to e-Mart. By accessing our website, you agree to these Terms of Service. Please read them carefully.
+        Welcome to e-MART. By accessing our website, you agree to these Terms of Service. Please read them carefully.
       </p>
       
       <h2 className="text-2xl font-bold mt-8 mb-4">1. Acceptance of Terms</h2>
@@ -61,7 +61,7 @@ export default function TermsPage() {
       <h2 className="text-2xl font-bold mt-8 mb-4">8. Intellectual Property</h2>
       
       <p className="mb-4">
-        All content included on our website, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of e-Mart or its content suppliers and protected by international copyright laws.
+        All content included on our website, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of e-MART or its content suppliers and protected by international copyright laws.
       </p>
       
       <h2 className="text-2xl font-bold mt-8 mb-4">9. User Conduct</h2>
@@ -81,7 +81,7 @@ export default function TermsPage() {
       <h2 className="text-2xl font-bold mt-8 mb-4">10. Limitation of Liability</h2>
       
       <p className="mb-4">
-        To the fullest extent permitted by law, e-Mart shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the services.
+        To the fullest extent permitted by law, e-MART shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the services.
       </p>
       
       <h2 className="text-2xl font-bold mt-8 mb-4">11. Governing Law</h2>
