@@ -1,6 +1,5 @@
-import { NextConfig } from 'next';
-
-const nextConfig: NextConfig = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   images: {
     domains: ['placehold.co', 'images.unsplash.com'],
     // Use remotePatterns instead of domains as recommended by the warning in the console
@@ -17,4 +16,4 @@ const nextConfig: NextConfig = {
   },
 };
 
-export default nextConfig; 
+module.exports = nextConfig; 
